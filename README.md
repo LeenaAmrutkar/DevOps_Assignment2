@@ -25,6 +25,7 @@ Steps to solve this Assignment: -
 6. After successful connection with MYSQL we can see Database = pucsdStudents and Table = studentData and we can get whole data using command: -
 
 •	Use pucsdStudents;
+
 •	Select * from studentData;
 
 Explanation of DockerFile and its instructions: -
