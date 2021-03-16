@@ -3,7 +3,7 @@ Steps to solve this Assignment: -
 
 1. Pull the latest code i.e; Open terminal & type following command: -
 
-   git clone https://github.com/JosnaTitus/DevOps_Assignment2.git
+   git clone https://github.com/LeenaAmrutkar/DevOps_Assignment2.git
   
 2. Go to cloned repo-directory and Build image using command: -
 
