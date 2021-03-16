@@ -3,12 +3,13 @@ Steps to solve this Assignment: -
 
 1. Pull the latest code i.e; Open terminal & type following command: -
 
-  git clone https://github.com/JosnaTitus/DevOps_Assignment2.git
+   git clone https://github.com/JosnaTitus/DevOps_Assignment2.git
   
 2. Go to cloned repo-directory and Build image using command: -
 
-  cd DevOps_Assignment2
-  docker build . -t Assign2
+   cd DevOps_Assignment2
+  
+   docker build . -t Assign2
    
 3. Start the container using command: -
 
