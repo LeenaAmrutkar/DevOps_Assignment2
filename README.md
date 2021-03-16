@@ -21,7 +21,7 @@ Steps to solve this Assignment: -
    
 5. It will take you to the root, then start MYSQL with Username = pucsd and Password = pucsd using command: -
 
-  mysql -upucsd -ppucsd
+   mysql -upucsd -ppucsd
   
 6. After successful connection with MYSQL we can see Database = pucsdStudents and Table = studentData and we can get whole data using command: -
 
